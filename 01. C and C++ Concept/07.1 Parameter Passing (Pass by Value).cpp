@@ -11,6 +11,7 @@ void swap(int x, int y){
 int main()
 {
     //Pass by Value
+    //pass by value
     
     int a=10, b=20;
     swap(a,b);
